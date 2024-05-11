@@ -1,6 +1,6 @@
 # Cat Expense Tracker
 
-Do `yarn` to intall all dependencies.
+Do `yarn` to install all dependencies.
 
 `yarn dev` to run the application
 
